@@ -5,6 +5,10 @@
     "user":{
         "email": "bubiu@email.com",
         "password": "Bubiu@123"
+    },
+    "reporter": "junit",
+    "reporterOptions": {
+      "mochaFile": "cypress/reports/junit-[hash].xml"
     }
     
 }
