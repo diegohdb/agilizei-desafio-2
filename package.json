@@ -1,5 +1,5 @@
 {
-  "name": "rwc_cypress",
+  "name": "agilizei-bootcamp-2",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^6.5.0"
+    "cypress": "^6.5.0",
+    "faker": "^5.4.0"
   }
 }
