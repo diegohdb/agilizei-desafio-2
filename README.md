@@ -52,7 +52,7 @@ After execution is completed the videos are available in cypress/videos
 
 ![login gif](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/login.spec.js.gif)
 
-- Registering
+- Registration
 
 ![cadastro gif](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/register.spec.js.gif)
 
