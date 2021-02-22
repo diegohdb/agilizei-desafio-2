@@ -50,15 +50,15 @@ After execution is completed the videos are available in cypress/videos
 
 - Login
 
-![login gif](https://user-images.githubusercontent.com/20997661/95933181-5104d180-0da4-11eb-9530-6f55b092724c.gif)
+![login gif](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/login.spec.js.gif)
 
 - Registering
 
-![cadastro gif](https://user-images.githubusercontent.com/20997661/95933317-a0e39880-0da4-11eb-88e0-13819aca292c.gif)
+![cadastro gif](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/register.spec.js.gif)
 
 - Articles
 
-![artigos gif](https://user-images.githubusercontent.com/20997661/95933312-9fb26b80-0da4-11eb-8c1a-40e6e88c6571.gif)
+![articles gif](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/articles.spec.js.gif)
 
 
 ## Azure DevOps Pipeline + Reports
@@ -67,7 +67,7 @@ The project runs in an Azure pipeline:
 
 - https://dev.azure.com/diegohdb/Agilizei%20Bootcamp%20N2/_build/results?buildId=5&view=results
 
-![azure](https://user-images.githubusercontent.com/20997661/95932641-c66fa280-0da2-11eb-8bec-821b2fcf5d46.png)
+![azure](https://github.com/diegohdb/agilizei-desafio-2/raw/main/.github/images/azure_results.PNG)
 
 
 
